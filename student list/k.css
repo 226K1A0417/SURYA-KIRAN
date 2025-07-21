@@ -1,0 +1,58 @@
+.c2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    margin: 2%;
+    font-size: xx-large;
+    margin-top: 2cm;
+    
+    
+    
+}
+.c3{
+    margin: 2%;
+    background-color: aqua;
+    height: 50px;
+    width: 100px;
+    border-radius: 20%;
+    
+    
+}
+.c4{
+    margin: 2%;
+    background-color: aqua;
+    height: 50px;
+    width: 100px;
+     border-radius: 20%;
+    
+}
+.c5{
+    margin: 2%;
+    background-color: aqua;
+    height: 50px;
+    width: 100px;
+     border-radius: 20%;
+    
+}
+.c1{
+    margin-top: 5cm;
+}
+.c3:hover{
+    background-color: coral;
+}
+.c4:hover{
+    background-color: coral;
+}
+.c5:hover{
+    background-color: coral;
+}
+ul{
+    margin-left: 35%;
+    margin-right: 35%;
+    color:rgb(230, 24, 24);
+    font-size: larger;
+}
+.c{
+    cursor: pointer;
+}
